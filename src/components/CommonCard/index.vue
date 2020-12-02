@@ -35,7 +35,7 @@ export default {
   }
   .value {
     font-size: 25px;
-    color: #999;
+    color: rgb(17, 17, 17);
     margin-top: 5px;
     letter-spacing: 1px
   }
